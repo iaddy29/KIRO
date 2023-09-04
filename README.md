@@ -1,2 +1,3 @@
 # KIRO
-K Intelligence Robotic Operation
+Knowledgeable Innovative Responsive Omnipresent
+
