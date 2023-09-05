@@ -1,5 +1,5 @@
 
-![Logo](https://pixlr.com/x/#editor)
+![Logo](https://ideogram.ai/api/images/direct/rG1oTikwS7aXdmpp0ADing)
 
 
 # KIRO
