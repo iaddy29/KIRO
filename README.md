@@ -1,5 +1,5 @@
 
-![Logo](https://ideogram.ai/api/images/direct/rG1oTikwS7aXdmpp0ADing)
+![Logo](file:///C:/Users/Addy/OneDrive/Desktop/ideogram%20(2).webp)
 
 
 # KIRO
