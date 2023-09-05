@@ -1,5 +1,5 @@
 
-![Logo](https://ideogram.ai/api/images/direct/K3LPMW_sS5GpqtFkYGhE_w)
+![Logo](https://ideogram.ai/api/images/direct/rG1oTikwS7aXdmpp0ADing)
 
 
 # KIRO
