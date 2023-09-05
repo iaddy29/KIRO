@@ -1,5 +1,5 @@
 
-![Logo](file:///C:/Users/Addy/OneDrive/Desktop/ideogram%20(2).webp)
+![Logo](https://pixlr.com/x/#editor)
 
 
 # KIRO
